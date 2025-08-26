@@ -1,11 +1,13 @@
 # 서울시 무더위 쉼터 설치 최적 입지 선정
 Selection of optimal locations for heatwave shelters in Seoul
 
+
 ### 프로젝트의 배경 및 목표
 
 ---
 
 기후변화에 따른 극단적 기상현상의 가속화로 매년 심각해지는 폭염 피해에 대응하기 위해, 본 연구는 서울시 내 **무더위 쉼터를 설치할 최적의 입지를 선정**하는 것을 목적으로 삼았습니다.
+
 
 ### 활용한 데이터셋
 
@@ -17,6 +19,7 @@ Selection of optimal locations for heatwave shelters in Seoul
     2. **민감도(Sensitivity)**: 65세 이상 인구 비율, 장애인·기초생활수급자 비율, 인구밀도 등
     3. **적응능력(Adaptive capacity)**: 냉방시설 접근성(냉방센터ㆍ공공의료시설), 녹지·수변 면적, 재정자립도(RGDP), 소방·응급의료 인력 등
 - **출처**: 서울 열린데이터 광장, 행정안전부, 질병관리청 등
+
 
 ### 프로젝트 진행 과정
 
@@ -30,6 +33,7 @@ Selection of optimal locations for heatwave shelters in Seoul
 6. **클러스터 탐색: 스캔 통계량**을 통해 취약성 지수가 높은 지역이 모여있는 클러스터를 도출
 7. **무더위 쉼터 설치 최적 입지 선정:** 지표들에 기반하여 우선적으로 쉼터 설치가 필요한 행정동 도출
 
+
 ### 분석 결과
 
 ---
@@ -37,6 +41,7 @@ Selection of optimal locations for heatwave shelters in Seoul
 - **공간적 군집성**: Moran’s I = 0.181로, 통계적 유의한 양의 공간적 자기상관성 확인
 - **우선 설치 권고 지역**:
     - **불광2동, 방학2동**, **갈현1동** 등 상대적 취약성이 높은 일부 행정동을 중심으로 무더위 쉼터를 우선 설치할 것을 제안
+
 
 ### 프로젝트를 통해 얻은 인사이트
 
