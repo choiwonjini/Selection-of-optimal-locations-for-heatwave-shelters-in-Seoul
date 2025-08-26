@@ -1,0 +1,86 @@
+# 데이터
+
+기초생활수급자
+https://data.seoul.go.kr/dataList/10113/S/2/datasetView.do
+
+rgdp
+https://data.seoul.go.kr/dataList/11058/S/2/datasetView.do
+
+보건소
+https://data.seoul.go.kr/dataList/27/S/2/datasetView.do
+
+소방서
+https://data.seoul.go.kr/dataList/300/S/2/datasetView.do
+
+생활인구
+https://data.seoul.go.kr/dataList/OA-14991/S/1/datasetView.do
+
+등록인구
+https://data.seoul.go.kr/dataList/10738/S/2/datasetView.do
+
+장애인
+https://data.seoul.go.kr/dataList/10577/S/2/datasetView.do
+
+인구밀도
+https://data.seoul.go.kr/dataList/10584/S/2/datasetView.do
+
+독거노인
+https://stat.eseoul.go.kr/statHtml/statHtml.do?orgId=201&tblId=DT_201004_F030011&conn_path=I2&obj_var_id=&up_itm_id=
+
+녹지 - 구
+https://data.seoul.go.kr/dataList/368/S/2/datasetView.do
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+# 선행연구
+
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002423849
+
+https://kpaj.or.kr/_common/do.php?a=full&bidx=1372&aidx=17866
+
+국립재난안전연구원
+https://www.ndmi.go.kr/home/sub.do?menukey=6039&mode=view&no=1674782&page=1&searchIs=Y&searchKeyword=%ED%8F%AD%EC%97%BC&searchKeywordType=1&searchRecord=10
+
+환경부의 취약성지수 부족한 점 제시
+https://www.hani.co.kr/arti/society/environment/855591.html
+
+2024 여름철 기후 특성 - 기상청
+https://www.kma.go.kr/kma/news/press.jsp?mode=view&num=1194405
+
+IPCC AR6 종합보고서 
+http://www.climate.go.kr/home/bbs/view.php?code=94&bname=climatereport&vcode=6840&cpage=1&vNum=46&skind=&sword=&category1=&category2=
+
+https://www.ndmi.go.kr/home/sub.do?menukey=6029&mode=list&page=4
+
+선행연구 취약성 평가지표
+https://koreanre.co.kr/USER_DATA/koreanre/content/editor/pdf/7%ED%9A%8C_%ED%8F%AC%EB%9F%BC%EB%B0%9C%ED%91%9C_%EC%A0%95%ED%9C%98%EC%B2%A0%EB%B0%95%EC%82%AC.pdf - 51p 정휘철
+https://jccr.re.kr/xml/12667/12667.pdf
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+# 인용
+
+재난안전지
+https://www.ndmi.go.kr/home/sub.do?menukey=6029&mode=list&page=4
+
+기상청 202406 기후 분석 결과
+https://www.kma.go.kr/kma/news/press.jsp?mode=view&num=1194405
+
+뉴스핌
+https://www.newspim.com/news/view/20240611000781
+
+정휘철
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10511202&language=ko_KR&hasTopBanner=true
+
+공병준
+https://www.kieae.kr/_common/do.php?a=current&b=11&bidx=3143&aidx=35022
+
+김동욱
+https://www.j-kosham.or.kr/upload/pdf/KOSHAM-2021-21-5-39.pdf
+
+이형주
+https://www.j-kosham.or.kr/upload/pdf/KOSHAM-2024-24-4-173.pdf
+
+유가영, 김인애, 기후변화 취약성 평가지표의 개방 및 도입방안, 한국: 한국환경정책 · 평가연구원, 2008, pp.1-97.
+G.Y. Yoo, I.A Kim, Development and application of a climate change vulnerability index, Korea: Korea Environment Institute, 2008, pp.1-97.
